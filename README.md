@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabcreative
-- 👀 I’m interested in Computational Arts, Creative Coding, Game Development, XR
+- 👀 I’m interested in Computational Arts, Design, Creative Coding, Game Development, XR
 - 🌱 I’m currently learning Unity, C#, Python, Swift
 - 📫 How to reach me https://linktr.ee/fabioardemagni
 
