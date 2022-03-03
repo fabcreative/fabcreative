@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabcreative
 - 👀 I’m interested in Computational Arts, Design, Creative Coding, Real-time Development, XR
-- 🌱 I’m currently playing with HTML/CSS/JavaScript, Three.js, Unity, Blender, C#, Python.
+- 🌱 I’m currently playing with HTML/CSS/JavaScript, Three.js, p5.js, Unity, Blender
 - 📫 How to reach me https://linktr.ee/fabioardemagni
 
 <!---
