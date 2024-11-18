@@ -1,4 +1,4 @@
-- 👋 Hi, I’m fab
+- 👋 Hi, I’m Fab
 - 👀 I’m interested in Design, Creative Coding, WebGL, Generative Art, Real-Time 3D Develpment, 3D Modelling & Animation.
 - 🌱 I’m currently playing with Unity, Blender, HTML/CSS/JavaScript, Three.js, p5.js, React, Framer Motion.
 - 📫 How to reach me https://linktr.ee/fabioardemagni
