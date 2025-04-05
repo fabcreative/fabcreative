@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Fab.
+## 👋 Hi, I’m Fab.
 I’m interested in Design, Web Development, Creative Coding, Generative Art, WebGL, Game Develpment and 3D Animation.
-I’m currently playing with p5.js, Hydra, Strudel, Three.js, React, Framer Motion, Unity, Blender.
-[My Sandbox on Github](https://fabcreative.github.io/)
+I’m currently playing with p5.js, Hydra, Strudel, Three.js, React, Framer Motion, Unity, Blender. <br><br>
+[My Sandbox on Github](https://fabcreative.github.io/)<br><br>
 [My other links](https://linktr.ee/fabioardemagni)
 
 <!---
