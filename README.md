@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Fab.
-I’m interested in Design, Web Development, Creative Coding, Generative Art, WebGL and creative tech in general. <br><br>
+I’m obsessed with design, web development, creative coding, generative art, WebGL, and pretty much anything that mixes creativity with tech.<br><br>
 [My Sandbox on Github](https://fabcreative.github.io/)<br><br>
 [My other links](https://linktr.ee/fabioardemagni)
 
